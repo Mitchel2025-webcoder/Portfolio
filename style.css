@@ -103,7 +103,6 @@ ul { list-style: none; }
   box-shadow: 0 1px 0 var(--border);
 }
 .nav-logo { font-family: var(--font-head); font-size: 1.25rem; font-weight: 800; color: #fff; letter-spacing: -0.02em; z-index: 1001; }
-.nav-logo span { color: var(--accent); }
 
 .nav-links { display: flex; gap: 28px; }
 .nav-links a {
